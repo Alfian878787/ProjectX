@@ -106,13 +106,14 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 * http://www.team-cymru.org/Services/Bogons/http.html
 
 
-**General Torrents or File-Sharing**
+**General Torrents and File-Sharing**
 
 * [OneSwarm](http://www.oneswarm.org)
-* [OnionShare](https://onionshare.org/)
+* [OnionShare](https://onionshare.org)
 * [The Pirate Bay](https://thepiratebay.org)
 * [magic-wormhole](https://packages.debian.org/stretch/magic-wormhole)
-* [Secushare](https://secushare.org/) + [Onion Mirror](http://secushare.cheettyiapsyciew.onion/)
+* [Secushare](https://secushare.org) + [Onion Mirror](http://secushare.cheettyiapsyciew.onion)
+* [MuWire](https://muwire.com) + [I2P Mirror](http://muwire.i2p)
 
 
 **Tor Torrents and File-Sharing**
