@@ -147,6 +147,7 @@ To use I2P (https://geti2p.net/), obtain and install the I2P jar file (https://g
 **General Social Media and Chat**
 
 * [Briar](https://briarproject.org/news/2017-beta-released-security-audit.html)
+* [Cwtch](https://openprivacy.ca/work/cwtch/)
 * [Threema](https://threema.ch/en/)
 * [Discord](https://discordapp.com/)
 * [Ring](https://ring.cx/)
