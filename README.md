@@ -1,4 +1,4 @@
-ProjectX file original created under the MIT license 2015 - 2019 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
+ProjectX file original created under the MIT license 2015 - present by [CHEF-KOCH](https://github.com/CHEF-KOCH).
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
@@ -392,7 +392,6 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 
 * [txtorhttpproxy](https://github.com/david415/txtorhttpproxy)
 
-
 **Discontinued**
 
 * [RShare](https://en.wikipedia.org/wiki/RShare)
@@ -401,6 +400,10 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [AllPeers](https://en.wikipedia.org/wiki/AllPeers)
 * [Turtle F2F](https://en.wikipedia.org/wiki/Turtle_F2F)
 
+
+**Tor Search Engines**
+
+* [Ahmia](https://ahmia.fi/)
 
 
 **Additional Tips**
@@ -507,4 +510,3 @@ gnunet://ecrs/chk/9E4MDN4VULE8KJG6U1C8FKH5HA8C5CHSJTILRTTPGK8MJ6VHORERHE68JU8Q0F
 * [Massive Deep Web Links 2015](http://securityzap.com/massive-deep-web-links-2015-updated-june-2015/#sthash.SoD6BtvO.dpbs)
 * [(.pdf) Tor Security overview at BlackHat (for experts)](https://www.blackhat.com/presentations/bh-usa-07/Perry/Whitepaper/bh-usa-07-perry-WP.pdf)
 * [Online Privacy Test Resource List](https://github.com/CHEF-KOCH/Online-Privacy-Test-Resource-List)
-* [Warez Overview list](https://github.com/CHEF-KOCH/Warez)
